@@ -1,5 +1,22 @@
-{
-  "1":"What is your name?",
-  "2":"How old are you?",
-  "3":"Where do you live?"
-}
+[
+  { "id": 1, "question": "How has South Korea’s crypto-friendly regulation impacted its stock market performance in H1 2025?" },
+  { "id": 2, "question": "What implications do London-listed companies investing in Bitcoin have for European crypto adoption?" },
+  { "id": 3, "question": "How has Robinhood’s expansion into crypto trading affected retail investor behavior?" },
+  { "id": 4, "question": "What is the significance of ProCap Financial’s $1 billion merger to form a Bitcoin treasury company?" },
+  { "id": 5, "question": "In what ways could including crypto assets in mortgage underwriting (Fannie/Freddie) change housing finance?" },
+  { "id": 6, "question": "How will Fiserv’s launch of FIUSD affect regional banks’ use of stablecoins?" },
+  { "id": 7, "question": "What are potential risks and benefits of the GENIUS Act regulating stablecoins?" },
+  { "id": 8, "question": "How might the upcoming $40 billion Bitcoin options expiry impact market volatility?" },
+  { "id": 9, "question": "What major crypto conference takeaways from Consensus 2025 in Toronto?" },
+  { "id": 10, "question": "What are the top crypto trends shaping the second half of 2025?" },
+  { "id": 11, "question": "How could AI-powered tokens influence the future of the crypto industry?" },
+  { "id": 12, "question": "What effects might Canada’s Blockchain Futurist Conference have on North American blockchain development?" },
+  { "id": 13, "question": "How is the improvement in US stablecoin regulation expected to affect institutional Bitcoin prices?" },
+  { "id": 14, "question": "What were the main drivers behind Bitcoin’s price surge past $110K in mid‑2025?" },
+  { "id": 15, "question": "How could Hong Kong’s proposed stablecoin licensing shape Asia’s digital asset landscape?" },
+  { "id": 16, "question": "What factors contributed to the global stock market crash in April 2025?" },
+  { "id": 17, "question": "How does Trump’s Strategic Bitcoin Reserve Executive Order change national digital asset strategy?" },
+  { "id": 18, "question": "What lessons were learned from Argentina’s $LIBRA scandal earlier this year?" },
+  { "id": 19, "question": "How will Circle’s IPO influence regulatory clarity in the US stablecoin space?" },
+  { "id": 20, "question": "What impact does Europe’s MiCA framework have on crypto exchanges and service providers?" }
+]
